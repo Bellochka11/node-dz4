@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ivan",
+    "secondName": "Ivanov",
+    "city": "Moscow",
+    "age": 65
+  },
+  {
+    "id": 2,
+    "firstName": "Ivan",
+    "secondName": "Ivanov",
+    "city": "Moscow",
+    "age": 65
+  },
+  {
+    "id": 3,
+    "firstName": "Ivan",
+    "secondName": "Ivanov",
+    "city": "Moscow",
+    "age": 65
+  },
+  {
+    "id": 4,
+    "firstName": "Ivan",
+    "secondName": "Ivanov",
+    "city": "Moscow",
+    "age": 65
+  },
+  {
+    "id": 5,
+    "firstName": "Ivan",
+    "secondName": "Ivanov",
+    "city": "Moscow",
+    "age": 65
+  }
+]
